@@ -1,0 +1,15 @@
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/obj/Debug/net7.0/ex66.csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/obj/Debug/net7.0/ex66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/obj/Debug/net7.0/ex66.AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/obj/Debug/net7.0/ex66.AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/obj/Debug/net7.0/ex66.csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/bin/Debug/net7.0/ex66
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/bin/Debug/net7.0/ex66.deps.json
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/bin/Debug/net7.0/ex66.runtimeconfig.json
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/bin/Debug/net7.0/ex66.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/bin/Debug/net7.0/ex66.pdb
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/obj/Debug/net7.0/ex66.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/obj/Debug/net7.0/refint/ex66.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/obj/Debug/net7.0/ex66.pdb
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/obj/Debug/net7.0/ex66.genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex66/obj/Debug/net7.0/ref/ex66.dll
